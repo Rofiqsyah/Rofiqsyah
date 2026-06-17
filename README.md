@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Rofiq Syah</h1>
 <h3 align="center">Informatics Student | Mobile & Web Developer</h3>
 
